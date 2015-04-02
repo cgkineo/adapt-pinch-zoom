@@ -1,0 +1,15 @@
+{
+  "name": "adapt-pinch-zoom",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cgkineo/adapt-pinch-zoom",
+  "authors": [
+    ""
+  ],
+  "description": "An extension that reveals a hidden article when the user clicks on a button.",
+  "main": "/js/adapt-pinch-zoom.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3"
+}

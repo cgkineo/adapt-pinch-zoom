@@ -1,0 +1,21 @@
+.adapt-pinch-zoom-viewport {
+
+	overflow:hidden;
+	position: relative;
+
+	&.not-interacted:after {			
+		
+		content: 'Zoom Instructions';
+		color:#FFF;
+		background:rgba(0,0, 0, 0.5);	
+		padding:10px;		
+		position: absolute;
+		top: 5%;
+		left:50%;
+		transform: translateX(-50%);
+	}
+}
+
+.adapt-pinch-zoom {
+
+}
